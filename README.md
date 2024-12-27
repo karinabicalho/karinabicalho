@@ -32,9 +32,9 @@
 
 <div style="display: flex; justify-content: space-around;">
 
-![Karina GitHub stats](https://github-readme-stats.vercel.app/api?username=karinabicalho&show_icons=true&theme=merko)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinabicalho&hide_progress=false)
+
+![Karina GitHub stats](https://github-readme-stats.vercel.app/api?username=karinabicalho&show_icons=true&theme=merko)
 
 </div>
 
