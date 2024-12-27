@@ -5,7 +5,6 @@
 
 
 # Meu nome é Karina Bicalho! 👩‍💻👋
----
 
 <div style="display: inline_block"><br/>
 <img align=" center" alt="C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -17,9 +16,6 @@
 <img align=" center" alt="CSS" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img align=" center" alt="JS" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-
-
----
 
 ### 🎓 Sistemas de Informação - PUC Minas
 #### ❤️ Apaixonada por tecnologia, especialmente segurança da informação. Tenho noções básicas em cibersegurança, redes, segurança de endpoints, bancos de dados, algoritmos, .NET C#, LGPD, sistemas operacionais, arquitetura de computadores e SQL. 
