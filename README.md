@@ -23,10 +23,8 @@
 #### 🚀 Estou em busca de oportunidades para aprender e crescer ainda mais na área. Sou curiosa, criativa e adoro me comunicar. Encaro desafios como uma chance de pensar fora da caixa e explorar novas possibilidades.
 
 ---
-<br>
-</br>
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: inline-block; justify-content: space-around;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinabicalho&hide_progress=false)
 
