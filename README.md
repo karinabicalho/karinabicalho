@@ -18,7 +18,7 @@
 </div>
 
 ### 🎓 Sistemas de Informação - PUC
-### Red Team Trainee
+### Atuo hoje como Red Team Trainee
 #### ❤️ Apaixonada por tecnologia, especialmente segurança da informação. Tenho noções básicas em cibersegurança, redes, segurança de endpoints, bancos de dados, algoritmos, .NET C#, LGPD, sistemas operacionais, arquitetura de computadores e SQL. 
 
 #### 🚀 Estou em busca de oportunidades para aprender e crescer ainda mais na área. Sou curiosa, criativa e adoro me comunicar. Encaro desafios como uma chance de pensar fora da caixa e explorar novas possibilidades.
