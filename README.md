@@ -17,7 +17,8 @@
 <img align=" center" alt="JS" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-### 🎓 Sistemas de Informação - PUC Minas
+### 🎓 Sistemas de Informação - PUC
+### Red Team Trainee
 #### ❤️ Apaixonada por tecnologia, especialmente segurança da informação. Tenho noções básicas em cibersegurança, redes, segurança de endpoints, bancos de dados, algoritmos, .NET C#, LGPD, sistemas operacionais, arquitetura de computadores e SQL. 
 
 #### 🚀 Estou em busca de oportunidades para aprender e crescer ainda mais na área. Sou curiosa, criativa e adoro me comunicar. Encaro desafios como uma chance de pensar fora da caixa e explorar novas possibilidades.
